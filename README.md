@@ -1,4 +1,4 @@
-Overview:
+Comparative Analysis of Stock Price Prediction Models: A Study Using Linear Regression, LSTM, GRU:
 
 This project focuses on analyzing historical stock market data for various companies and implementing predictive models to forecast future prices. The analysis includes data cleaning, visualization, and the use of machine learning models such as GRU, LSTM, and Linear Regression for price prediction.
 
